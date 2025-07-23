@@ -133,7 +133,7 @@
   }
   
   .mobile-text-lg {
-    @apply text-lg sm:text-xl;
+    @apply text-xs sm:text-lg;
   }
   
   .mobile-text-xl {

@@ -86,7 +86,7 @@ const Hero = () => {
             <Button
               onClick={() => scrollToSection('contato')}
               size="lg"
-              className="bg-gradient-to-r from-primary to-blue-400 hover:from-blue-400 hover:to-primary text-black font-bold mobile-button rounded-full glow-effect hover-lift group w-full sm:w-auto"
+              className="bg-gradient-to-r from-primary to-blue-400 hover:from-blue-400 hover:to-primary text-black font-bold mobile-button rounded-full glow-effect hover-lift group w-full"
             >
               QUERO MINHA AVALIAÇÃO GRATUITA
               <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />

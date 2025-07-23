@@ -110,7 +110,7 @@ const CTA = () => {
             <Button
               onClick={() => window.open('https://wa.me/5511999999999', '_blank')}
               size="lg"
-              className="bg-gradient-to-r from-primary to-blue-400 hover:from-blue-400 hover:to-primary text-black font-bold px-12 py-6 rounded-full text-xl glow-effect hover-lift group relative overflow-hidden"
+              className="bg-gradient-to-r from-primary to-blue-400 hover:from-blue-400 hover:to-primary text-black font-bold px-10 py-6 rounded-full text-xl glow-effect hover-lift group relative overflow-hidden"
             >
               {/* Button Background Animation */}
               <div className="absolute inset-0 bg-gradient-to-r from-blue-400 to-primary opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>

@@ -175,7 +175,8 @@ function SecaoChamadaFinal() {
                   <Button
                     onClick={() => window.open('https://wa.me/5511999999999?text=Olá! Quero saber mais sobre a consultoria nutricional personalizada.', '_blank')}
                     size="lg"
-                    className="bg-gradient-to-r from-green-500 to-green-400 hover:from-green-400 hover:to-green-500 text-white font-bold mobile-button rounded-full glow-effect hover-lift group w-full sm:w-auto"
+                  
+                    
                   >
                     <span className="mobile-text-lg">QUERO MINHA AVALIAÇÃO GRATUITA</span>
                     <ArrowRight className="ml-2 w-6 h-6 group-hover:translate-x-1 transition-transform" />

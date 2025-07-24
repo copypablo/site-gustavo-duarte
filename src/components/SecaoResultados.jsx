@@ -115,7 +115,7 @@ function SecaoResultados() {
         </motion.div>
 
         {/* CONTEÚDO PRINCIPAL - IMAGEM E RESULTADOS */}
-    
+        <div className="grid lg:grid-cols-2 mobile-gap items-center mb-16">
           
           {/* INFORMAÇÕES SOBRE RESULTADOS */}
           <motion.div
@@ -194,7 +194,6 @@ function SecaoResultados() {
                 whileInView={{ scale: 1 }}
                 transition={{ delay: 0.5, type: "spring", stiffness: 200 }}
                 viewport={{ once: true }}
-                className="absolute -top-4 -right-4 glass-effect px-4 py-2 rounded-full border border-green-400/30"
               >
                 <span className="mobile-text-sm font-bold text-green-400">95% Taxa de Sucesso</span>
               </motion.div>

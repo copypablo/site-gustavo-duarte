@@ -115,7 +115,7 @@ function SecaoResultados() {
         </motion.div>
 
         {/* CONTEÚDO PRINCIPAL - IMAGEM E RESULTADOS */}
-        <div className="grid lg:grid-cols-2 mobile-gap items-center mb-16">
+    
           
           {/* INFORMAÇÕES SOBRE RESULTADOS */}
           <motion.div
